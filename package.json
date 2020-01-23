@@ -1,0 +1,15 @@
+{
+  "name": "webTech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : {
+    "myCommand" : "/lecture1/mkdirImplement.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
