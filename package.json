@@ -6,10 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin" : {
-    "myCommand" : "/lecture1/mkdirImplement.js"
+  "bin": {
+    "myCommand": "lecture1/mkdirImplement.js",
+    "today": "./promises12.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoyron/webTechnologies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoyron/webTechnologies/issues"
+  },
+  "homepage": "https://github.com/zoyron/webTechnologies#readme"
 }
